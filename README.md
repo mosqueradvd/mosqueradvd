@@ -1,3 +1,6 @@
+  
+<img src="https://i.imgur.com/pF0l2Pq.gif" alt="David Mosquera | Github" style="margin: 0 auto;" title="David Mosquera | Github" />
+
 <h1 align='center'>Welcome!</h1>
 
 
