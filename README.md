@@ -3,9 +3,6 @@
 
 <h1 align='center'>Welcome!</h1>
 
-
-  <img align="right" alt='Synthwave Keyboard' style="margin: 0 auto;" src="https://media2.giphy.com/media/xULW8t4niLpdPz9GRW/200w.webp?cid=ecf05e47a4e2c4ef5b48dd1c21e04c88f9a3c0de6fb939d2&rid=200w.webp">
-
 <p align='left'>
   <a href="https://twitter.com/mosqueradvd">
     <img align="center" alt="David Mosquera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
