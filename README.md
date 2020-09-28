@@ -13,8 +13,8 @@
 </p>
 
 - Frontend Developer and [@PlatziMaster](https://github.com/PlatziMaster) Student 🔥
-- Currently working as a Frontend Dev on [@Gamecheap](https://github.com/fresh-xcraping-enchiladas), a project under construction by my teammates & me 🏗️
-- My fav framework for frontend is [@sveltejs](https://github.com/sveltejs).
+- Currently working as a Frontend Dev on [@Tierra de Fuego](https://github.com/mosqueradvd/proyectoDocumentacion), a project built in React to manage info of the projects from diffetents organizations  🏗️
+- Fav framework for frontend development: [@sveltejs](https://github.com/sveltejs).
 - Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
 - I'm also [#PoweredBySynthwave](https://www.youtube.com/watch?v=xdQBN3jhjb8&t=3203s) ⚡
 - [CV](https://ceev.io/@mosqueradvd) 📖
