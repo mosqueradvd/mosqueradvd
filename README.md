@@ -13,7 +13,7 @@
 </p>
 
 - Frontend Developer and [@PlatziMaster](https://github.com/PlatziMaster) Student 🔥
-- Currently working as a Frontend Dev on [@Tierra de Fuego](https://github.com/mosqueradvd/proyectoDocumentacion), a project built in React to manage info of the projects from diffetents organizations  🏗️
+- Currently working as a Frontend Dev on [@Tierra de Fuego](https://github.com/mosqueradvd/proyectoDocumentacion), a project built in React to manage info of the projects from diffetent organizations  🏗️
 - Fav framework for frontend development: [@sveltejs](https://github.com/sveltejs).
 - Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
 - I'm also [#PoweredBySynthwave](https://www.youtube.com/watch?v=xdQBN3jhjb8&t=3203s) ⚡
