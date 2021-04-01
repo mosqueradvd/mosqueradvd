@@ -14,21 +14,21 @@
 
 - Frontend Developer and [@PlatziMaster](https://github.com/PlatziMaster) Student 🔥
 - Currently working on [@wtchltr](https://watch-later-feed.vercel.app/), an application that allows you to watch saved YouTube videos for later viewing in a simplified and organized way 🏗️
-- Fav framework for frontend development: [@reactjs](https://github.com/reactjs).
+- Skilled in: [@reactjs](https://github.com/reactjs).
 - Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
 - I'm also [#PoweredBySynthwave](https://www.youtube.com/watch?v=xdQBN3jhjb8&t=3203s) ⚡
-- [CV](https://ceev.io/@mosqueradvd) 📖
+- [Online CV](https://ceev.io/@mosqueradvd) 📖
 
 <br />
 
-**<h3>Languages & Tools I use to continue building the Internet</h3>**
+**<h3>Languages and tools I use to continue building the Internet</h3>**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code>JavaScript<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code>React<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code>Node.js<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code>Firebase<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code>Git<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code>Command Line<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 <br />
