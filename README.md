@@ -3,9 +3,9 @@
 
 <h1 align='center'>Welcome!</h1>
 
-- Front-end Developer and [@PlatziMaster](https://github.com/PlatziMaster) Student 🔥
+- Front-end Developer at [@PITGlobers](https://itglobers.com/) 🔥
 - Currently working on [@wtchltr](https://watch-later-feed.vercel.app/), an application that allows you to watch saved YouTube videos for later viewing in a simplified and organized way 🏗️
-- Skilled in: [@reactjs](https://github.com/reactjs).
+- Skilled in React.js
 - Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
 - I'm also [#PoweredBySynthwave](https://www.youtube.com/watch?v=xdQBN3jhjb8&t=3203s) ⚡
 - [Online CV](https://ceev.io/@mosqueradvd) 📖
