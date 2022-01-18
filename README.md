@@ -3,7 +3,7 @@
 
 <h1 align='center'>Welcome!</h1>
 
-- Front-end Developer at [@PITGlobers](https://itglobers.com/) 🔥
+- Front-end Developer at [@ITGlobers](https://itglobers.com/) 🔥
 - Currently working on [@wtchltr](https://watch-later-feed.vercel.app/), an application that allows you to watch saved YouTube videos for later viewing in a simplified and organized way 🏗️
 - Skilled in React.js
 - Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
