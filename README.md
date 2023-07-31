@@ -37,5 +37,7 @@
 
 ### Some Stats
 
+<a href="https://app.daily.dev/mosqueradvd"><img src="https://api.daily.dev/devcards/40d540939b244c838ab15f7973702b99.png?r=ogo" width="400" alt="David Mosquera's Dev Card"/></a>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mosqueradvd&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosqueradvd&theme=radical)
