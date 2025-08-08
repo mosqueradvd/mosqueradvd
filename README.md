@@ -1,43 +1,30 @@
-<img src="https://i.imgur.com/pF0l2Pq.gif" alt="David Mosquera | Github" style="margin: 0 auto;" title="David Mosquera | Github" />  
-
-
-<h1 align='center'>Welcome!</h1>
-
-- Front-end Developer at [@ITGlobers](https://itglobers.com/) 🔥
-- Currently working on [@wtchltr](https://watch-later-feed.vercel.app/), an application that allows you to watch saved YouTube videos for later viewing in a simplified and organized way 🏗️
-- Skilled in React.js
-- Reach me on Twitter! [twitter.com/mosqueradvd](https://twitter.com/mosqueradvd) 🐦
-- I'm also [#PoweredBySynthwave](https://www.youtube.com/watch?v=xdQBN3jhjb8&t=3203s) ⚡
-- [Online CV](https://ceev.io/@mosqueradvd) 📖
+<img width="1121" height="604" alt="image" src="https://github.com/user-attachments/assets/ac42ba8f-5a5c-4cc0-a5c3-a3321612f875" />
 
 <br />
-
-### Languages and tools I use to continue building the Internet
-
-<code>JavaScript<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code>React<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code>Node.js<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code>Firebase<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code>Git<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code>Command Line<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-### Social media
-
-<p align='left'>
-  <a href="https://twitter.com/mosqueradvd">
-    <img align="center" alt="David Mosquera | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.linkedin.com/in/mosqueradavid/">
-    <img align="center" alt="David's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>
-
-
 <br />
 
-### Some Stats
+Software Engineer with a foundation in Systems Engineering. ***Specialized in the VTEX IO/FastStore, FlutterFlow, and Next.js ecosystems***. With over 4+ years of experience implementing e-commerce solutions for LATAM/USA. I improve performance and time-to-market through modular architecture and automation with N8N and Make. I have led implementations, created custom applications, and mentored teams to accelerate the adoption of VTEX IO. ***See my contributions.***
 
-<a href="https://app.daily.dev/mosqueradvd"><img src="https://api.daily.dev/devcards/40d540939b244c838ab15f7973702b99.png?r=ogo" width="400" alt="David Mosquera's Dev Card"/></a>
+***I have also worked in the occupational Health and Safety Sector (OHS)***, creating applications that help optimize treatment, maintenance traceability, and asset management within companies, ensuring compliance with standards such as ISO 45001. **See the case study.***
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mosqueradvd&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mosqueradvd&theme=radical)
+I know how to audit the internal processes of technology companies so that they can be certified according to the *ISO 27001 standard*, due to my recent experience as CISO.
+
+I enjoy constantly learning, and as part of my desire to do so, I am immersed in a journey to delve into the world of cloud computing with training in AWS Cloud Practitioner.
+<br />
+
+### Skills
+
+<p float="left">
+      <img width="64" alt="React.js - David Mosquera" src="https://iconic-api.onrender.com/dark/react" />
+      <img width="64" alt="Next.js - David Mosquera" src="https://iconic-api.onrender.com/dark/nextjs" />
+      <img width="64" alt="AWS - David Mosquera" src="https://iconic-api.onrender.com/dark/aws" />
+      <img width="80" alt="VTEX IO - David Mosquera" src="https://github.com/user-attachments/assets/79854000-2f52-494d-85d2-2d275f74f68f" />
+      <img width="80" alt="FlutterFlow - David Mosquera" src="https://github.com/user-attachments/assets/f3907843-95dd-4813-b4ca-86d666510dfb" />
+
+
+  <figure style="width:220px; margin:0; text-align:center;">
+    <img width="200" height="341" alt="Certificado AWS" 
+         src="https://github.com/user-attachments/assets/7bbb230e-1ff8-4506-bcc8-87a63975fef9"
+         style="max-width:100%; height:auto;" />
+    <figcaption><sub><em>Certificado AWS Cloud Practitioner</em></sub></figcaption>
+  </figure>
