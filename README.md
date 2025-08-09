@@ -28,7 +28,7 @@ I enjoy constantly learning, and as part of my desire to do so, I am immersed in
 <br />
       
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="card_dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="card_light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card_dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card_light.svg">
   <img alt="Stats card" src="assets/card_light.svg" width="900">
 </picture>
