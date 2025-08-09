@@ -1,0 +1,40 @@
+name: Update Profile Card
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # diario 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install lxml requests
+
+      - name: Update SVGs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python scripts/update_card.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore: update profile card" || echo "No changes"
+          git push
