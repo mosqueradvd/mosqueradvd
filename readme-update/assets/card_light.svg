@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="980" height="560" viewBox="0 0 980 560" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box { rx: 18; ry: 18; }
+    .mono { font: 16px ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .title { font: 22px ui-monospace, Menlo, Consolas, monospace; font-weight: 700; }
+    .muted { opacity: .85; }
+    .small { font: 12px ui-monospace, Menlo, Consolas, monospace; font-style: italic; }
+    .ascii { font: 11px ui-monospace, Menlo, Consolas, monospace; }
+  </style>
+  <rect x="0" y="0" width="980" height="560" fill="#f8fafc"/>
+  <rect x="18" y="18" width="944" height="524" class="box" fill="#ffffff"/>
+
+  <!-- HEADER -->
+  <text x="40" y="60" class="title" fill="#0f172a">mosqueradvd@github ————</text>
+
+  <!-- LEFT COLUMN (STATS) -->
+  <g id="left" transform="translate(40,95)">
+    <text x="0" y="0" class="mono muted" fill="#334155">OS:</text>
+    <text x="180" y="0" class="mono" fill="#0f172a">GitHub (web)</text>
+
+    <text x="0" y="32" class="mono muted" fill="#334155">Uptime:</text>
+    <text id="uptime" x="180" y="32" class="mono" fill="#0f172a">…</text>
+
+    <text x="0" y="88" class="mono muted" fill="#334155">Repos (public):</text>
+    <text id="repos" x="180" y="88" class="mono" fill="#0f172a">…</text>
+
+    <text x="0" y="120" class="mono muted" fill="#334155">Stars given:</text>
+    <text id="stars" x="180" y="120" class="mono" fill="#0f172a">…</text>
+
+    <text x="0" y="152" class="mono muted" fill="#334155">Followers:</text>
+    <text id="followers" x="180" y="152" class="mono" fill="#0f172a">…</text>
+
+    <text x="0" y="184" class="mono muted" fill="#334155">Contributions (12m):</text>
+    <text id="commits" x="260" y="184" class="mono" fill="#0f172a">…</text>
+
+    <text x="0" y="240" class="mono muted" fill="#334155">Stack:</text>
+    <text x="80" y="240" class="mono" fill="#0f172a">VTEX IO · Next.js · FlutterFlow · React</text>
+
+    <!-- IMAGE + CAPTION (bottom-left). Note: path is relative to THIS SVG file -->
+    <image href="totenkopf.png" x="0" y="270" width="160" height="160" opacity="0.95"/>
+    <text x="0" y="440" class="small" fill="#334155">Totenkopf – Memento Mori</text>
+  </g>
+
+  <!-- RIGHT COLUMN (ASCII) -->
+  <g id="ascii" transform="translate(520,78)">
+    <rect x="-16" y="-30" width="420" height="470" fill="none" stroke="#0ea5e9" opacity="0.18"/>
+    <text class="ascii" fill="#0f172a" dominant-baseline="hanging">
+        <tspan x="0" dy="0">                         @@                                      </tspan>
+        <tspan x="0" dy="1.05em">                                      %%%%%%%%%%%%%%@%%%%% %%%%                                     </tspan>
+        <tspan x="0" dy="1.05em">                                   %%%%%%%%%%%%%%%%%%%%%%%%%%%####%%                                </tspan>
+        <tspan x="0" dy="1.05em">                                 %%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%##%%%                              </tspan>
+        <tspan x="0" dy="1.05em">                               %%%%%%%@@@@@@%@@%%%%%%%%@%%%%%%%%%%%%%%%                             </tspan>
+        <tspan x="0" dy="1.05em">                               %%%%%%%%@@@@@@%%%@%%%%%%%%%%@%%%%%%%%%%%%%                           </tspan>
+        <tspan x="0" dy="1.05em">                             %%%%%%@@@@@@%%%%%%%%%%%@@%%%@@@@@%%%%%%%%%%%                           </tspan>
+        <tspan x="0" dy="1.05em">                            %%%%%@%%%@@@@@@@@@%%%####%%%%@@%@@%%%%%%%%%%                            </tspan>
+        <tspan x="0" dy="1.05em">                            %%%%%%%%%%%@@%%%%*+====---===+#%%%%%%%%%%%%%%%                          </tspan>
+        <tspan x="0" dy="1.05em">                           %%%%%%@@@@@@@%%#*+==-----------=+*%%%%%%%%%%%%%%@                        </tspan>
+        <tspan x="0" dy="1.05em">                          %%%%@@@@@@@@@%##*++=--------------=+#%%%%%%%%%%%%@                        </tspan>
+        <tspan x="0" dy="1.05em">                         @%%@@@@@@@%@@%%#*++===--------------=*%%%%@%%%%%@                          </tspan>
+        <tspan x="0" dy="1.05em">                         @@@@@@@@%%@%%%%#*++===--------:::---=*#%%@@%%%%%%                          </tspan>
+        <tspan x="0" dy="1.05em">                           @@@@%%%%%%%%##*+=====-------------==#%%%@@%%%%%%%                        </tspan>
+        <tspan x="0" dy="1.05em">                           %%%%%%%@%%%%#%###%%%#*+=--+**#**++++*%%%%%%%%%%%%                        </tspan>
+        <tspan x="0" dy="1.05em">                           %%@%%@@@%%%####*+==+***+--==++=---==+#%%%@@@%%%%%%                       </tspan>
+        <tspan x="0" dy="1.05em">                           @%%%%@@@@@%####%%%#+***+---=++###*===*%%%@@@@%%%%%                       </tspan>
+        <tspan x="0" dy="1.05em">                            @@@@@@@@@%*****++==+**+=----==------+%@@@@@@@%@@@                       </tspan>
+        <tspan x="0" dy="1.05em">                            @@@@@@@%%%**+++====+**+-------:::---=#%%@@%@@%@                         </tspan>
+        <tspan x="0" dy="1.05em">                             @@@@@%##%#*+=--===+**=-----::::::--++*@@@@@@@@@                        </tspan>
+        <tspan x="0" dy="1.05em">                             @@@@@@%###*+=====+***+=-==-::::::-===*@%%@%@                           </tspan>
+        <tspan x="0" dy="1.05em">                               @@@@@%*##*+====+*###+===--::::--==+%@%%%%@                           </tspan>
+        <tspan x="0" dy="1.05em">                               @@@@@@@@#*++==++***=======------+@@@@%@                              </tspan>
+        <tspan x="0" dy="1.05em">                                  @@@@@#**++******+====-------=#%%%@@                               </tspan>
+        <tspan x="0" dy="1.05em">                                   @@@@%#***++*#*+++=======---+%%%%                                 </tspan>
+        <tspan x="0" dy="1.05em">                                    @@@@###******++++==---====*#                                    </tspan>
+        <tspan x="0" dy="1.05em">                                        #####**++====----===++=                                     </tspan>
+        <tspan x="0" dy="1.05em">                                        ######*+===------=+*=-=                                     </tspan>
+        <tspan x="0" dy="1.05em">                                      @@@####%#*++=======++=--+%%%@                                 </tspan>
+        <tspan x="0" dy="1.05em">                                   @@@@@@######%%#******+=-----*%%%%%%                              </tspan>
+        <tspan x="0" dy="1.05em">                                @@@@@@@@@#***#####**++===------*%%%%%%%%%%%                         </tspan>
+        <tspan x="0" dy="1.05em">                            @@@@@@@@@@@@@#*****##**====-------=#%%%%%%%%%%%%%%%                     </tspan>
+        <tspan x="0" dy="1.05em">                         @@@@@@@@@@@@@@@@%**+++****+==--------*%%%%%%%%%%%%%%%%                     </tspan>
+        <tspan x="0" dy="1.05em">                       @@@@@@@@@@@@@@@@@@@%*++++*+==--------=*%%%%%@%%%%%%%%%%%                     </tspan>
+        <tspan x="0" dy="1.05em">                       @@@@@@@@@@@@@@@@@@@@@#*+++*++===----+#%%%%%%%%%%%%%@%%%%                     </tspan>
+        <tspan x="0" dy="1.05em">                       @@@@@@@@%@@@%%@@@@@@@@@%#+++++====*#%%%%%%%%%%%%%%@@%%%%                     </tspan>
+        <tspan x="0" dy="1.05em">                        @@@@@@@@@@@%%@@@@@@@@@@@@@%##*#%@@@@%%%%%%%%%%%%%@@%%%</tspan>
+    </text>
+  </g>
+</svg>
