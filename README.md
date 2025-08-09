@@ -5,7 +5,7 @@
 
 Software Engineer with a foundation in Systems Engineering. ***Specialized in the VTEX IO/FastStore, FlutterFlow, and Next.js ecosystems***. With over 4+ years of experience implementing e-commerce solutions for LATAM/USA. I improve performance and time-to-market through modular architecture and automation with N8N and Make. I have led implementations, created custom applications, and mentored teams to accelerate the adoption of VTEX IO. ***See my contributions.***
 
-***I have also worked in the occupational Health and Safety Sector (OHS)***, creating applications that help optimize treatment, maintenance traceability, and asset management within companies, ensuring compliance with standards such as ISO 45001. ***See the case study.***
+***I have also worked in the Occupational Health and Safety Sector (OHS)***, creating applications that help optimize treatment, maintenance traceability, and asset management within companies, ensuring compliance with standards such as ISO 45001. ***See the case study.***
 
 I know how to audit the internal processes of technology companies so that they can be certified according to the *ISO 27001 standard*, due to my recent experience as CISO.
 
