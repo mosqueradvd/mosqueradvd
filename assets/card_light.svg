@@ -26,13 +26,13 @@
     <text id="repos" x="180" y="88" class="mono" fill="#0f172a">62</text>
 
     <text x="0" y="120" class="mono muted" fill="#334155">Stars given:</text>
-    <text id="stars" x="180" y="120" class="mono" fill="#0f172a">93</text>
+    <text id="stars" x="180" y="120" class="mono" fill="#0f172a">94</text>
 
     <text x="0" y="152" class="mono muted" fill="#334155">Followers:</text>
     <text id="followers" x="180" y="152" class="mono" fill="#0f172a">21</text>
 
     <text x="0" y="184" class="mono muted" fill="#334155">Contributions (12m):</text>
-    <text id="commits" x="260" y="184" class="mono" fill="#0f172a">152</text>
+    <text id="commits" x="260" y="184" class="mono" fill="#0f172a">154</text>
 
     <text x="0" y="240" class="mono muted" fill="#334155">Stack:</text>
     <text x="80" y="240" class="mono" fill="#0f172a">VTEX IO · Next.js · FlutterFlow · React</text>
