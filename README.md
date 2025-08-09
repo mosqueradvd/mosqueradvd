@@ -23,6 +23,7 @@ I enjoy constantly learning, and as part of my desire to do so, I am immersed in
       <img width="75" style="margin-top: 10px;" alt="VTEX IO - David Mosquera" src="https://github.com/user-attachments/assets/79854000-2f52-494d-85d2-2d275f74f68f" />
       <img width="80" alt="FlutterFlow - David Mosquera" src="https://github.com/user-attachments/assets/f3907843-95dd-4813-b4ca-86d666510dfb" />
     -->
+</p>
       
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card_dark.svg">
