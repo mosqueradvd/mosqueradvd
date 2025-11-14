@@ -20,7 +20,7 @@
     <text x="180" y="0" class="mono" fill="#e5e7eb">GitHub (web)</text>
 
     <text x="0" y="32" class="mono muted" fill="#93c5fd">Uptime:</text>
-    <text id="uptime" x="180" y="32" class="mono" fill="#e5e7eb">6 years, 9 months, 25 days</text>
+    <text id="uptime" x="180" y="32" class="mono" fill="#e5e7eb">6 years, 9 months, 26 days</text>
 
     <text x="0" y="88" class="mono muted" fill="#93c5fd">Repos (public):</text>
     <text id="repos" x="180" y="88" class="mono" fill="#e5e7eb">61</text>
