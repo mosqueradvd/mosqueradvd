@@ -20,13 +20,13 @@
     <text x="180" y="0" class="mono" fill="#e5e7eb">GitHub (web)</text>
 
     <text x="0" y="32" class="mono muted" fill="#93c5fd">Uptime:</text>
-    <text id="uptime" x="180" y="32" class="mono" fill="#e5e7eb">7 years, 1 month, 0 days</text>
+    <text id="uptime" x="180" y="32" class="mono" fill="#e5e7eb">7 years, 1 month, 1 day</text>
 
     <text x="0" y="88" class="mono muted" fill="#93c5fd">Repos (public):</text>
     <text id="repos" x="180" y="88" class="mono" fill="#e5e7eb">61</text>
 
     <text x="0" y="120" class="mono muted" fill="#93c5fd">Stars given:</text>
-    <text id="stars" x="180" y="120" class="mono" fill="#e5e7eb">95</text>
+    <text id="stars" x="180" y="120" class="mono" fill="#e5e7eb">94</text>
 
     <text x="0" y="152" class="mono muted" fill="#93c5fd">Followers:</text>
     <text id="followers" x="180" y="152" class="mono" fill="#e5e7eb">20</text>
